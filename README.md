@@ -27,7 +27,7 @@ To install dependecies in the terminal use npm install
 
 ## Usage
 
-To run the application use node index.js
+To run the application use npm start
 
 ## License
 
@@ -49,7 +49,7 @@ Any additional question you can reach me at <u>acromarti@gmail.com</u>
 
 ## Link to Video
 
-https://drive.google.com/file/d/1sS0fzzeiJPgGbSPonGLsN4F_63C-2OGS/view
+https://drive.google.com/file/d/1bRDWpIoy__di9yBnw9WTeHowYIizZSRg/view
 
 
 
